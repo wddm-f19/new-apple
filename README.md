@@ -4,6 +4,8 @@ With a partner, discuss the layout provided below (screenshot are a modified ver
 
 Recreate the layout below using HTML and CSS. **NOTE**: A few of the Apple source images in the folder are slightly different than what's shown below, this is for an upcoming example. Simply create the closest approximation.
 
+For the font, attach and apply `Roboto` ([Google Font can be found here](https://fonts.google.com/specimen/Roboto)) in place of Apple's proprietary `SF Pro Display` shown in the screenshots.
+
 # Layout Screenshots
 
 There are _three_ screenshots below, **please review all three before starting.**
