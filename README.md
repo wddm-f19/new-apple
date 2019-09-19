@@ -15,6 +15,8 @@ To create the search input component, use the following HTML:
 <input type="search">
 ```
 
+One way to add the search magifying glass (`search.svg`) is to use `background-image`. Ensure that the text that's being searched will not overlap the magnifying glass by using `padding`.
+
 # Layout Screenshots
 
 There are _three_ screenshots below, **please review all three before starting.**
