@@ -4,7 +4,16 @@ With a partner, discuss the layout provided below (screenshot are a modified ver
 
 Recreate the layout below using HTML and CSS. **NOTE**: A few of the Apple source images in the folder are slightly different than what's shown below, this is for an upcoming example. Simply create the closest approximation.
 
+## Tips
+
+To start, you may let the logo, menu-button, search-input and menu stack vertically (so no need to put the logo and button beside each other in the same row horizontally).
+
 For the font, attach and apply `Roboto` ([Google Font can be found here](https://fonts.google.com/specimen/Roboto)) in place of Apple's proprietary `SF Pro Display` shown in the screenshots.
+
+To create the search input component, use the following HTML:
+```html
+<input type="search">
+```
 
 # Layout Screenshots
 
